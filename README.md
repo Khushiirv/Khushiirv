@@ -1,8 +1,3 @@
-## HI, I AM KHUSHI 
-
-FINAL COMPUTER SCIENCE STUDENT AT KLS GIT<br/>
-I am skilled in Python, SQL, Power BI, REST APIs<br/>
-
 <h1 align="center">Hi 👋, I'm Khushi</h1>
 <h3 align="center">I am passionate about Machine Learning, skilled in C, Python, Microsoft Power BI, UI/UX, REST API, from India</h3>
 
